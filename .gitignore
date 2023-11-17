@@ -1,0 +1,7 @@
+# Arquivos e diretórios gerados pelo Go
+/bin/
+/pkg/
+/vendor/
+
+# Scripts de implantação
+/scripts/*.sh

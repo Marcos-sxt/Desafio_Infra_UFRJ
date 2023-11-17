@@ -1,0 +1,8 @@
+# values.yaml
+image:
+  repository: your-registry/your-image
+  tag: latest
+service:
+  port: 80
+redis:
+  address: your-redis-service:6379
